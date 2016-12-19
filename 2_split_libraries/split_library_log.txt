@@ -1,0 +1,81 @@
+Input file paths
+Mapping filepath: QIIME/16S-ResoluteMontreal2013-2014/0_MappingFiles/Mapping_file_2014 (md5: 9ba9d8a501d0aff2326fea98c115b44b)
+Sequence read filepath: QIIME/16S-ResoluteMontreal2013-2014/1_Join/fastqjoin/fastqjoin.join.fastq (md5: 1af419892ba9f374cb71f40858f1af21)
+Barcode read filepath: QIIME/16S-ResoluteMontreal2013-2014/1_Join/fastqjoin/fastqjoin.join_barcodes.fastq (md5: 85aecf827f21ae43ebdd7b0dc56c70c5)
+
+Quality filter results
+Total number of input sequences: 14140707
+Barcode not in mapping file: 6129517
+Read too short after quality truncation: 0
+Count of N characters exceeds limit: 0
+Illumina quality digit = 0: 0
+Barcode errors exceed max: 0
+
+Result summary (after quality filtering)
+Median sequence length: 296.00
+M29	274277
+R5	266691
+R22	262304
+R26	247798
+M9	243611
+R15	234411
+R10	232387
+M25	228472
+R21	196414
+R9	195490
+M27	195409
+R17	186953
+M31	184214
+R23	172562
+R11	171951
+R18	171207
+R13	166739
+R12	164697
+M1	162164
+R16	150946
+M19	148751
+M32	147156
+M16	146916
+M8	143886
+M7	142243
+M13	140066
+mock	138201
+M12	136597
+M4	135942
+R25	128475
+R14	127604
+negctl1	126330
+M17	125585
+R20	122656
+M6	122495
+R1	120824
+negctl2	120458
+M5	116806
+R2	116476
+M11	111392
+M24	107612
+M23	106597
+M14	105072
+M28	100306
+R7	99506
+M26	95638
+R4	93463
+M20	85864
+M21	85531
+R24	81151
+R3	70950
+M33	69580
+R6	64292
+M3	61640
+M15	55413
+M22	1009
+M30	6
+R19	2
+M2	1
+M18	1
+R8	0
+M10	0
+
+Total number seqs written	8011190
+---
+
