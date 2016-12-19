@@ -1,2 +1,2 @@
 
-0_raw_reads/Undetermined_S0_L001_I1_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
+0_raw_reads/Undetermined_S0_L001_R1_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
