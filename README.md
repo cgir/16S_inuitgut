@@ -10,9 +10,9 @@ Raw MiSeq sequencing data can be found in the 0_raw_reads folder.
 ##Joined paired reads
 Paired reads were concatenated using the join_paired_ends.py script in QIIME 1.9.0
 
-'''
+```
 join_paired_ends.py -f 0_raw_reads/Undetermined_S0_L001_R1_001.fastq -r 0_raw_reads/Undetermined_S0_L001_R2_001.fastq -o 1_concatenated_reads/fastqjoin -b 0_raw_reads/Undetermined_S0_L001_I1_001.fastq
-'''
+```
 
 ##Library split
 Libraries were split using split_libraries_fastq.py script in QIIME 1.9.0
